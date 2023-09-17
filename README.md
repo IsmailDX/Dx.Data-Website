@@ -15,4 +15,4 @@
 <img width="180" alt="1" src="https://github.com/IsmailDX/Dx.Data-Website/assets/107717142/ea678549-4d7f-4636-94eb-441b44b4f604">
 
 ## Cool navigation bar on mobile
-<img width="500" alt="3" src="https://github.com/IsmailDX/Cairo-Food-Restaurant-Website/assets/107717142/7395ff23-903c-42ff-b289-a4442cc506fb">
+<img width="240" alt="1" src="https://github.com/IsmailDX/Dx.Data-Website/assets/107717142/8f7e448b-fed0-485f-9ce0-a2fb58fc7284">
